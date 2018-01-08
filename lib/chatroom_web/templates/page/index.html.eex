@@ -1,0 +1,55 @@
+
+
+<div id='screen'>
+<div class='row form-group'>
+<div>
+<h2 align='center' coloe='blue'> TWITTER </h2>
+</div>
+  <div class='col-md-3'>
+    <input type='text' id='name' class='form-control' placeholder='Username' />
+  </div>
+  <div class='col-md-9'>
+    <input type='text' id='password' class='form-control' placeholder='Password' />
+  </div>
+  <div margin='3' align='center'>
+  <input id='login' type='button' value='Login'>
+  <input id='register' type='button' value='Register'>
+  </div>
+</div>
+
+
+
+<div id='homepage'> 
+<div>
+<input type='text' id='followtext'  placeholder='Username' />
+ <input id='follow' type='button' value='Follow'>
+</div>
+
+<div>
+<input type='text' id='tweetbox'  placeholder='Write Tweet' />
+ <input id='sendtweetbtn' type='button' value='Send Tweet'>
+</div>
+
+
+<div id='hashtag'>
+<input type='text' id='searchhashtag'  placeholder='Search Hashtag' />
+<input id='searchhashtagbtn' type='button' value='Search'>
+</div>
+
+
+<div id='usermention'>
+<input type='text' id='searchusername'  placeholder='Search User Mentions' />
+<input id='searchusernamebtn' type='button' value='Search'>
+</div>
+
+<div id='retweet'>
+<input type='text' id='retweetusername'  placeholder='Username' />
+<input type='text' id='retweettxt' width='100px' placeholder='Tweet' />
+<input id='retweetbtn' type='button' value='Re-Tweet'>
+</div>
+
+<div id='message-list' class='row'>
+</div>
+</div>
+
+</div>
