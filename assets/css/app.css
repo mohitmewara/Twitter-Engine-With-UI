@@ -1,0 +1,150 @@
+/* This file is for your main application css. */
+
+#message-list {
+  border: 1px solid #777;
+  height: 300px;
+  padding: 10px;
+  overflow: scroll;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  background-color: whitesmoke;
+
+}
+
+#homepage{
+  height: auto;
+  width: auto;
+  display: none;
+}
+
+
+
+#send-tweet-list {
+  border: 1px solid #777;
+  height: 100px;
+  padding: 10px;
+  overflow: scroll;
+  margin-bottom: 50px;
+
+}
+
+#tweetbox {
+  border: 1px solid #777;
+  height: 70px;
+  width: 700px;
+  padding: 10px;
+  overflow: scroll;
+  margin-top: 50px;
+ 
+}
+
+#hashtag{
+  margin: 20px;
+}
+
+#usermention{
+  margin: 20px;
+}
+
+#retweet{
+  margin: 20px;
+}
+
+#retweetbtn{
+
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  
+}
+
+#register
+{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin-top: 4px;
+
+}
+
+#login
+{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin-top: 4px;
+
+}
+
+#follow
+{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+#screen
+{
+  background-color: lightgray;
+}
+
+#sendtweetbtn
+{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin-top: 4px;
+
+}
+
+#searchhashtagbtn
+{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+#searchusernamebtn
+{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
