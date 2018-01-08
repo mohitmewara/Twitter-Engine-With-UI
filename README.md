@@ -1,7 +1,6 @@
-# Twitter-Engine-With-UI
-This project uses the Phoenix web framework to implement a WebSocket interface to twitter backend engine implementation.
+# Twitter With UI
 
-To start Phoenix server:
+To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
